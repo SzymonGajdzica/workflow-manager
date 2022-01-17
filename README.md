@@ -16,7 +16,7 @@ Credentials for pre-created users
   - Password: worker1
 ## Using hosted solution:
 1. To wake up service open [link](https://workflow-manager-server.herokuapp.com/workflow-manager-api/swagger-ui/) and wait till page loads
-2. Later app will be available at [link](https://workflow-manager-server.herokuapp.com/workflow-manager-api/swagger-ui/)
+2. App will be available at [link](https://workflow-manager-server.herokuapp.com/workflow-manager-api/swagger-ui/)
 ## Launching project locally:
 1. Download and install Java (at least 1.8) and set JAVA_HOME
 2. Download and install Postgres (with password 12345) and start at port 1234
